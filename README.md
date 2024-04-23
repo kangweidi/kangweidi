@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working from home
+- 🌱 I’m currently learning golang
+- 🤔 I’m looking for help with coding
+- 💬 Ask me about nothing
+- 📫 How to reach me: hanli@outlook.lv
